@@ -1,0 +1,372 @@
+@media all and (max-width: 1024px)
+{
+    nav
+    {
+        flex-direction: column;
+    }
+    body{
+
+    }
+    .navi, .navi>div
+    {
+        width: auto;
+        margin-bottom: 15px;
+    }
+    
+    .photo
+    {
+        display: none;
+    }
+    
+    .pack,.lol
+    {
+        width: 110px;
+        float: right;
+        margin-left: 15px;
+    }
+    
+    .subpack
+    {
+        text-align: center;
+    }
+}
+.subpack{
+
+    display:flex;
+    flex-direction: column;
+}
+.lol{
+    display: flex;
+    margin-left:50px;
+    margin-top: 20px;
+    margin-bottom:20px;
+    
+}
+.lolo{
+    display:flex;
+    margin-right:720px;
+    color: aliceblue;
+    
+}
+.bl{
+    align-items: center;
+    text-align: center;
+    margin-top:25px;
+}
+.jl{
+    display: flex;
+    justify-content:space-evenly;
+    text-align:center;
+    
+    
+
+}
+button{
+    height:30px;
+    width: 145px;
+    color: aliceblue;
+    background-color:#1b213d;
+
+
+}
+.jlos{
+     width:50%;
+     
+
+}
+.jlo{
+    width:40%;
+    height:50%;
+}
+.quatre{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    text-align:center;
+    padding:1%;
+    background-color: beige;
+}
+.four{
+    width:50%;
+    height:30%;
+}
+footer{
+    
+}
+.footi{
+
+    display:flex;
+    background:black;
+    
+    
+}
+.footi{
+    display:flex;
+    text-align:center;
+    align-items: center;
+    height:100px;
+    
+}
+
+.footix{
+    display:flex;
+    color: white;
+}
+.foo{
+    width:43%;
+    height:60%;
+
+}
+.cinq{
+      display: flex;
+      align-items: center;
+      text-align:center;
+      
+}
+@media (min-width: 740px) and (max-width: 1024px) {
+    body {
+        margin: 0 auto;
+        width: 100%;
+        font-family: 'Ubuntu', sans-serif;
+    } 
+    .navi, .navi>div
+    {
+        width: auto;
+        margin-bottom: 15px;
+    }
+    
+    .photo
+    {
+        display: none;
+    }
+    
+    .pack,.lol
+    {
+        width: 110px;
+        float: right;
+        margin-left: 15px;
+    }
+    
+    .subpack
+    {
+        text-align: center;
+    }
+}
+.subpack{
+
+    display:flex;
+    flex-direction: column;
+}
+.lol{
+    display: flex;
+    margin-left:50px;
+    margin-top: 20px;
+    margin-bottom:20px;
+    
+}
+.lolo{
+    display:flex;
+    margin-right:720px;
+    color: aliceblue;
+    
+}
+.bl{
+    align-items: center;
+    text-align: center;
+    margin-top:25px;
+}
+.jl{
+    display: flex;
+    justify-content:space-evenly;
+    text-align:center;
+    
+    
+
+}
+button{
+    height:30px;
+    width: 145px;
+    color: aliceblue;
+    background-color:#1b213d;
+
+
+}
+.jlos{
+     width:50%;
+     
+
+}
+.jlo{
+    width:40%;
+    height:50%;
+}
+.quatre{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    text-align:center;
+    padding:1%;
+    background-color: beige;
+}
+.four{
+    width:50%;
+    height:30%;
+}
+footer{
+    
+}
+.footi{
+
+    display:flex;
+    background:black;
+    
+    
+}
+.footi{
+    display:flex;
+    text-align:center;
+    align-items: center;
+    height:100px;
+    
+}
+
+.footix{
+    display:flex;
+    color: white;
+}
+.foo{
+    width:43%;
+    height:60%;
+
+}
+.cinq{
+      display: flex;
+      align-items: center;
+      text-align:center;
+    }
+    @media (min-width: 320px) and (max-width: 740px) {
+        * {
+            margin: 0;
+            padding: 0;
+            
+        }
+        body {
+            margin: 0 auto;
+            width: 100%;
+            font-family: 'Ubuntu', sans-serif;
+        } 
+        .navi, .navi>div
+        {
+            width: auto;
+            margin-bottom: 15px;
+        }
+        
+        .photo
+        {
+            display: none;
+        }
+        
+        .pack,.lol
+        {
+            width: 110px;
+            float: right;
+            margin-left: 15px;
+        }
+        
+        .subpack
+        {
+            text-align: center;
+        }
+    }
+    .subpack{
+    
+        display:flex;
+        flex-direction: column;
+    }
+    .lol{
+        display: flex;
+        margin-left:50px;
+        margin-top: 20px;
+        margin-bottom:20px;
+        
+    }
+    .lolo{
+        display:flex;
+        margin-right:720px;
+        color: aliceblue;
+        
+    }
+    .bl{
+        align-items: center;
+        text-align: center;
+        margin-top:25px;
+    }
+    .jl{
+        display: flex;
+        justify-content:space-evenly;
+        text-align:center;
+        
+        
+    
+    }
+    button{
+        height:30px;
+        width: 145px;
+        color: aliceblue;
+        background-color:#1b213d;
+    
+    
+    }
+    .jlos{
+         width:50%;
+         
+    
+    }
+    .jlo{
+        width:40%;
+        height:50%;
+    }
+    .quatre{
+        display: flex;
+        align-items:center;
+        justify-content: space-between;
+        text-align:center;
+        padding:1%;
+        background-color: beige;
+    }
+    .four{
+        width:50%;
+        height:30%;
+    }
+    footer{
+        
+    }
+    .footi{
+    
+        display:flex;
+        background:black;
+        
+        
+    }
+    .footi{
+        display:flex;
+        text-align:center;
+        align-items: center;
+        height:100px;
+        
+    }
+    
+    .footix{
+        display:flex;
+        color: white;
+    }
+    .foo{
+        width:43%;
+        height:60%;
+    
+    }
+    .cinq{
+          display: flex;
+          align-items: center;
+          text-align:center;
+        }

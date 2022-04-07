@@ -1,0 +1,135 @@
+
+body{
+
+    margin:auto; 
+    
+    font-family: 'Ubuntu', sans-serif;
+    box-shadow: 0px 0px 35px 1px rgb(172, 172, 172);
+    width:60%;
+}
+nav{
+     display:flex;
+     justify-content:space-between;
+     align-items: center;
+     text-align: center;
+     background-color: rgba(13, 1, 1);
+     
+
+}
+.photo{
+    display:flex;
+   
+    
+    
+
+    
+}
+.navi{
+    display:flex;
+    color: rgb(243, 246, 249);
+    width:60%
+}
+.navi>div{
+    text-align:center;
+    
+    
+}
+.pack{
+    display: flex;
+   
+    justify-content: space-between; 
+    background-color:#1b213d;
+}
+.subpack{
+
+    display:flex;
+    flex-direction: column;
+}
+.lol{
+    display: flex;
+    margin-left:50px;
+    margin-top: 20px;
+    margin-bottom:20px;
+    
+}
+.lolo{
+    display:flex;
+    margin-right:720px;
+    color: aliceblue;
+    
+}
+.bl{
+    align-items: center;
+    text-align: center;
+    margin-top:25px;
+}
+.jl{
+    display: flex;
+    justify-content:space-evenly;
+    text-align:center;
+    
+    
+
+}
+button{
+    height:30px;
+    width: 145px;
+    color: aliceblue;
+    background-color:#1b213d;
+
+
+}
+.jlos{
+     width:50%;
+     
+
+}
+.jlo{
+    width:40%;
+    height:50%;
+}
+.quatre{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    text-align:center;
+    padding:1%;
+    background-color: beige;
+}
+.four{
+    width:50%;
+    height:30%;
+}
+footer{
+    
+}
+.footi{
+
+    display:flex;
+    background:black;
+    
+    
+}
+.footi{
+    display:flex;
+    text-align:center;
+    align-items: center;
+    height:100px;
+    
+}
+
+.footix{
+    display:flex;
+    color: white;
+}
+.foo{
+    width:43%;
+    height:60%;
+
+}
+.cinq{
+      display: flex;
+      align-items: center;
+      text-align:center;
+      
+}
